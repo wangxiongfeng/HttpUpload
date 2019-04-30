@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fff"
+    android:orientation="vertical">
+
+    <projectnine.cn.com.bannerviewpager.BannerView
+        android:id="@+id/bannerview"
+        android:layout_width="match_parent"
+        android:layout_height="140dp"
+        app:bottomColor="@color/colorPrimaryDark"
+        app:dotDistance="10dp"
+        app:dotGravity="center"
+        app:dotIndicatorFoucus="#000"
+        app:dotIndicatorNormal="#fff"
+        app:dotSize="8dp"
+        app:heightProperation="3"
+        app:widthProperation="8"></projectnine.cn.com.bannerviewpager.BannerView>
+
+
+    <TextView
+        android:id="@+id/tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/bannerview"
+        android:background="@color/colorPrimary" />
+</LinearLayout>

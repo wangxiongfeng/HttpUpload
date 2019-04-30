@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HttpUpload.iml" filepath="$PROJECT_DIR$/HttpUpload.iml" />
+      <module fileurl="file://$PROJECT_DIR$/alef/alef.iml" filepath="$PROJECT_DIR$/alef/alef.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidandfix/androidandfix.iml" filepath="$PROJECT_DIR$/androidandfix/androidandfix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidaop/androidaop.iml" filepath="$PROJECT_DIR$/androidaop/androidaop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidbuilddesignmode/androidbuilddesignmode.iml" filepath="$PROJECT_DIR$/androidbuilddesignmode/androidbuilddesignmode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androiddailidesginmode/androiddailidesginmode.iml" filepath="$PROJECT_DIR$/androiddailidesginmode/androiddailidesginmode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidioc/androidioc.iml" filepath="$PROJECT_DIR$/androidioc/androidioc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidiocclibrary/androidiocclibrary.iml" filepath="$PROJECT_DIR$/androidiocclibrary/androidiocclibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidmvp/androidmvp.iml" filepath="$PROJECT_DIR$/androidmvp/androidmvp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidndkdemo1/androidndkdemo1.iml" filepath="$PROJECT_DIR$/androidndkdemo1/androidndkdemo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidzengliangupdate/androidzengliangupdate.iml" filepath="$PROJECT_DIR$/androidzengliangupdate/androidzengliangupdate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/audiorecord/audiorecord.iml" filepath="$PROJECT_DIR$/audiorecord/audiorecord.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bannerviewpager/bannerviewpager.iml" filepath="$PROJECT_DIR$/bannerviewpager/bannerviewpager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collapsingtoolbarlayout/collapsingtoolbarlayout.iml" filepath="$PROJECT_DIR$/collapsingtoolbarlayout/collapsingtoolbarlayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eventbustest/eventbustest.iml" filepath="$PROJECT_DIR$/eventbustest/eventbustest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/faxing/faxing.iml" filepath="$PROJECT_DIR$/faxing/faxing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gesture/gesture.iml" filepath="$PROJECT_DIR$/gesture/gesture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hook/hook.iml" filepath="$PROJECT_DIR$/hook/hook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myapplication/myapplication.iml" filepath="$PROJECT_DIR$/myapplication/myapplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myhashmap/myhashmap.iml" filepath="$PROJECT_DIR$/myhashmap/myhashmap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redpackage/redpackage.iml" filepath="$PROJECT_DIR$/redpackage/redpackage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/retrofitrxjavaokhttp/retrofitrxjavaokhttp.iml" filepath="$PROJECT_DIR$/retrofitrxjavaokhttp/retrofitrxjavaokhttp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rxjavatest/rxjavatest.iml" filepath="$PROJECT_DIR$/rxjavatest/rxjavatest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servicebaohuo/servicebaohuo.iml" filepath="$PROJECT_DIR$/servicebaohuo/servicebaohuo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/skindemo/skindemo.iml" filepath="$PROJECT_DIR$/skindemo/skindemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sockettest/sockettest.iml" filepath="$PROJECT_DIR$/sockettest/sockettest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vctoranimation/vctoranimation.iml" filepath="$PROJECT_DIR$/vctoranimation/vctoranimation.iml" />
+    </modules>
+  </component>
+</project>

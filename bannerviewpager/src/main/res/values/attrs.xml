@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="BannerView">
+
+        <attr name="dotIndicatorFoucus" format="color|reference"></attr>
+        <attr name="dotIndicatorNormal" format="color|reference"></attr>
+        <attr name="dotSize" format="dimension"></attr>
+        <attr name="dotDistance" format="dimension"></attr>
+        <attr name="dotGravity" format="enum">
+            <enum name="center" value="0" />
+            <enum name="left" value="-1" />
+            <enum name="right" value="1" />
+        </attr>
+        <attr name="bottomColor" format="color"></attr>
+        <!--定义宽高比-->
+        <attr name="widthProperation" format="float"></attr>
+        <attr name="heightProperation" format="float"></attr>
+
+    </declare-styleable>
+
+</resources>

@@ -1,0 +1,12 @@
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@drawable/heart">
+    <target
+        android:name="rotateGroup"
+        android:animation="@animator/rotate_animator" />
+    <target
+        android:name="triangle1"
+        android:animation="@animator/path_change" />
+    <target
+        android:name="triangle2"
+        android:animation="@animator/totateanimator_change" />
+</animated-vector>

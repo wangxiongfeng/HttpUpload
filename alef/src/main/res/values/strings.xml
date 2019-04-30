@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">alef</string>
+    <string name="chinese">中文</string>
+    <string name="english">英文</string>
+    <string name="detailexplain">详细释义</string>
+    <string name="translation">译文</string>
+    <string name="holdspeak">按住说话</string>
+    <string name="holdspeak2">Hold to speak</string>
+    <string name="dospeak">正在说话</string>
+    <string name="keepquiet">请保持按住说话</string>
+    <string name="historyrecord">历史记录</string>
+    <string name="nouninterpretation">名词解释</string>
+    <string name="moreinter">更多释义</string>
+    <string name="linkimage">相关图片</string>
+    <string name="url">URL</string>
+
+
+</resources>

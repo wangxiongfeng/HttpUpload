@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/alef" />
+            <option value="$PROJECT_DIR$/androidandfix" />
+            <option value="$PROJECT_DIR$/androidaop" />
+            <option value="$PROJECT_DIR$/androidbuilddesignmode" />
+            <option value="$PROJECT_DIR$/androiddailidesginmode" />
+            <option value="$PROJECT_DIR$/androidioc" />
+            <option value="$PROJECT_DIR$/androidiocclibrary" />
+            <option value="$PROJECT_DIR$/androidmvp" />
+            <option value="$PROJECT_DIR$/androidndkdemo1" />
+            <option value="$PROJECT_DIR$/androidzengliangupdate" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/audiorecord" />
+            <option value="$PROJECT_DIR$/bannerviewpager" />
+            <option value="$PROJECT_DIR$/collapsingtoolbarlayout" />
+            <option value="$PROJECT_DIR$/eventbustest" />
+            <option value="$PROJECT_DIR$/faxing" />
+            <option value="$PROJECT_DIR$/gesture" />
+            <option value="$PROJECT_DIR$/hook" />
+            <option value="$PROJECT_DIR$/myapplication" />
+            <option value="$PROJECT_DIR$/myhashmap" />
+            <option value="$PROJECT_DIR$/redpackage" />
+            <option value="$PROJECT_DIR$/retrofitrxjavaokhttp" />
+            <option value="$PROJECT_DIR$/rxjavatest" />
+            <option value="$PROJECT_DIR$/servicebaohuo" />
+            <option value="$PROJECT_DIR$/skindemo" />
+            <option value="$PROJECT_DIR$/sockettest" />
+            <option value="$PROJECT_DIR$/vctoranimation" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
